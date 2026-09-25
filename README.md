@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Bhavesha
+
+I graduated in 2025 with a BCom in Management Studies from the University of Cape Town, specialising in Data Science and Statistics. I am currently pursuing a BSc IT Honours in Data Science. I am looking for a first role on a team that uses data to make decisions in financial services, fintech, consulting, healthcare, retail, or the public sector.
+
+I like problems where a number has to turn into a decision: who is likely to miss a payment, what will demand be next month, did the campaign actually work. The projects below are the way I show that, with code you can run, tests that pass, and write-ups that state their limits.
+
 
 <!--
 **Bhavesha-Ansuya/Bhavesha-Ansuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
